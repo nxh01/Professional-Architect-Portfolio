@@ -4,7 +4,7 @@ Professional Architect Portfolio Fully Responsive, for any devices, mobile or de
 
 ## Getting Started
 
-This website is free of bootstrap, clean code fully responsive without any library, only used animation on scroll reveals with AOS.
+This website is free of bootstrap, clean code fully responsive without any library or module, only used animation on scroll reveals with AOS.
 
 ### Prerequisites
 
