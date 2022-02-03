@@ -26,12 +26,6 @@ You need to clone or download from github, open with vscode(visual studio code) 
 ## Contributing
 If you are up to contributing to the project, just make a request and I will review it, thank you for the support!
 
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
 ## Authors
 
   - **Nisi** - *Creator of the website* -
