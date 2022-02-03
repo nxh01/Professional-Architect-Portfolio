@@ -23,6 +23,8 @@ You need to clone or download from github, open with vscode(visual studio code) 
   - [HTML]()
   - [CSS]()
   - [Javascript]()
+  - [On Scroll Reveale](https://michalsnik.github.io/aos/)
+  - [SwiperJs](https://swiperjs.com/)
 
 ## Contributing
 If you are up to contributing to the project, just make a request and I will review it, thank you for the support!
