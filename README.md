@@ -16,6 +16,7 @@ Requirements for the software and other tools to build, test and push
 You need to clone or download from github, open with vscode(visual studio code) and host it with live server and enjoy.
 
 ### Preview
+![Preview](https://user-images.githubusercontent.com/80894732/152311779-e830f626-df40-464e-a4ac-105f010c7cd1.png)
 
 ## Built With
 
